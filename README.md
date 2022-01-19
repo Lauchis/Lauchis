@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/Lauchis/Lauchis/master/images/myname.gif)
+
+
 <!--
 ![my name](https://user-images.githubusercontent.com/88812841/150147540-bbde73d6-5964-48ed-bc6a-bbf03f5e600e.gif)
 **Lauchis/Lauchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
