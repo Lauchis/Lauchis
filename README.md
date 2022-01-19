@@ -1,5 +1,15 @@
-### Hi there 👋
+### 👋 Welcome to my Github!! 👋
 
+![There's my image name](https://raw.githubusercontent.com/Lauchis/Lauchis/master/images/myname.gif)
+
+## I'm a Full Stack Developer
+
+## ⭐ This is my skills:
+![JavaScript, React, Redux, Node.JS, Express, postgreSQL, CSS, HTML, Sequelize](https://raw.githubusercontent.com/Lauchis/Lauchis/master/images/logos.png)
+
+**Contact to me**
+- [⭐️ Email ⭐️](mailto:lauchis892@gmail.com?subject=Hi "Hi!")
+- [⭐️ Linkedin ⭐️](http://www.linkedin.com/in/laura-sacripanti)
 <!--
 ![my name](https://user-images.githubusercontent.com/88812841/150147540-bbde73d6-5964-48ed-bc6a-bbf03f5e600e.gif)
 **Lauchis/Lauchis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
